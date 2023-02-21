@@ -48,4 +48,4 @@
   ![image](https://user-images.githubusercontent.com/119752452/220252600-c8626c10-93d3-4fb0-b7d7-485d5f3e139f.png)
   
   ## Tutorial Video
-  [![image](https://user-images.githubusercontent.com/119752452/220254517-55de17b0-a289-4656-b6f0-11b0b8da327d.png)] (https://youtu.be/rK7jUU1-B3I)
+  Click [here](https://youtu.be/rK7jUU1-B3I) for tutorial video of how the generator works.
