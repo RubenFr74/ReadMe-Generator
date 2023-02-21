@@ -13,8 +13,6 @@
    
   * [License](#license)
 
-  * [License](#license)
-
   * [Contributions](#contributions)
 
   * [Tests](#tests)
