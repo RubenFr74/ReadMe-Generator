@@ -3,7 +3,7 @@
   ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  undefined
+  This will generate a professional looking ReadMe file through Node.js
 
   ## Table of Contents
 
@@ -11,8 +11,6 @@
 
   * [Usage](#usage)
    
-  * [License](#license)
-
   * [License](#license)
 
   * [Contributions](#contributions)
@@ -39,7 +37,13 @@
 
   None are available
 
-  ##Questions
+  ## Questions
   
   For any questions you may have, please emal me at ruben.afranco@yahoo.com.
   You can view mor eof my work at https://github.com/RubenFr74 .
+  
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/119752452/220252600-c8626c10-93d3-4fb0-b7d7-485d5f3e139f.png)
+  
+  ## Tutorial Video
+  Click [here](https://youtu.be/rK7jUU1-B3I) for a tutorial video of how the generator works.
