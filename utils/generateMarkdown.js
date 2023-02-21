@@ -67,7 +67,7 @@ function generateMarkdown(data) {
 
   ${data.test}
 
-  ##Questions
+  ## Questions
   
   For any questions you may have, please emal me at ${data.email}.
   You can view mor eof my work at https://github.com/${data.github} .
