@@ -43,7 +43,7 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
    ${renderLicenseLink(data.license)}
-  * [License](#license)
+
 
   * [Contributions](#contributions)
 
